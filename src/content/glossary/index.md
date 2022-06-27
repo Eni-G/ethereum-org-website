@@ -265,7 +265,8 @@ A network-wide setting that controls how much computation is required to produce
 
 ### difficulty bomb {#difficulty-bomb}
 
-Planned exponential increase in [proof-of-work](#pow) [difficulty](#difficulty) setting designed to motivate the transition to [proof-of-stake](#pos), reducing the chances of a [fork](#hard-fork)
+Planned exponential increase in [proof-of-work](#pow) [difficulty](#difficulty) setting designed to motivate the transition to [proof-of-stake](#pos), and reducing the chances of a [fork](#hard-fork).
+The difficulty bomb is a mechanism that increases the rate of time needed to mine a new block on the Ethereum blockchain by increasing the difficulty level of puzzles in the proof-of-work mining algorithm at a predefined block number. This results in less ETH rewards for miners, and discourages them from opting to continue the energy-intensive proof-of-work mechanism after the transition to proof-of-stake by removing the incentive.
 
 ### digital signature {#digital-signatures}
 
