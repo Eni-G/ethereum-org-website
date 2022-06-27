@@ -265,7 +265,7 @@ A network-wide setting that controls how much computation is required to produce
 
 ### difficulty bomb {#difficulty-bomb}
 
-Planned exponential increase in [proof-of-work](#pow) [difficulty](#difficulty) setting designed to motivate the transition to [proof-of-stake](#pos), reducing the chances of a [fork](#hard-fork)
+Planned exponential increase in [proof-of-work](#pow) [difficulty](#difficulty) setting designed to motivate the transition to [proof-of-stake](#pos), and reducing the chances of a [fork](#hard-fork). The difficulty bomb is a mechanism that increases the rate of time needed to mine a new block on the Ethereum blockchain by incrementally increasing the difficulty level of puzzles in the proof-of-work mining algorithm. It discourages miners from opting to continue the energy-intensive proof-of-work mechanism after the transition to proof-of-stake by removing the incentive and making mining exponentially difficult over time.
 
 ### digital signature {#digital-signatures}
 
@@ -528,7 +528,7 @@ An Ethereum address encoding that is partly compatible with the International Ba
 
 ### Ice Age {#ice-age}
 
-A [hard fork](#hard-fork) of Ethereum at block 200,000 to introduce an exponential [difficulty](#difficulty) increase (aka [difficulty bomb](#difficulty-bomb)), motivating a transition to [proof-of-stake](#pos).
+A [hard fork](#hard-fork) of Ethereum at block 200,000 to introduce an exponential [difficulty](#difficulty) increase (aka [difficulty bomb](#difficulty-bomb)), motivating a transition to [proof-of-stake](#pos). The exponential increase of the mining difficulty over time eventually leads to what is referred to as the "Ice Age", when it becomes so difficult to mine on the Ethereum blockchain, that block production stops (freezes) completely.
 
 ### integrated development environment (IDE) {#ide}
 
